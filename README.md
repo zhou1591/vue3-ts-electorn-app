@@ -1,6 +1,11 @@
-> 基于 vue3 tsx electorn 的一个demo
-
->作者 周靖松
+## 基于 vue3 tsx electorn 的一个项目
 
 
-![作者二维码]('http://47.99.98.183/qr.jpg')
+- 重点  electorn 下载慢  可以先
+   npm i  -g electron-chromedriver 一下
+
+
+
+作者二维码
+
+<img src='./qr.jpg' />
