@@ -5,6 +5,11 @@ declare module '*.vue' {
   export default component
 }
 
+declare module '*.ts' {
+  const model:any ={}
+  export default model
+}
+
 interface newNode extends NodeJS.Process{
   platform:String,//环境
   on:Function//监听
