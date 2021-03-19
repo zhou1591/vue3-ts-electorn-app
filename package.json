@@ -19,33 +19,6 @@
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
   },
-  "build":{
-    "productName":"周靖松的代码仓库",
-    "copyright":"zjs-copyright",
-    "compression": "store", 
-    "directories": {
-        "output": "exe" 
-    }, 
-    "asar": false, 
-    "win": {  
-        "icon": "./1.ico"
-    },
-    "mac": {  
-      "icon": "./1.icns"
-    },
-    "nsis": {
-        "oneClick": false,
-        "perMachine": true, 
-        "allowElevation": true, 
-        "allowToChangeInstallationDirectory": true, 
-        "installerIcon": ".1.ico", 
-        "uninstallerIcon": ".1.ico", 
-        "installerHeaderIcon": ".1.ico", 
-        "createDesktopShortcut": true, 
-        "createStartMenuShortcut": true, 
-        "shortcutName": "zjs" 
-    }
-  },
   "devDependencies": {
     "@types/electron-devtools-installer": "^2.2.0",
     "@vue/cli-plugin-babel": "~4.5.0",
