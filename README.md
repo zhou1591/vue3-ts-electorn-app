@@ -3,9 +3,7 @@
 - 重点  electorn 下载慢  可以先
    npm i  -g electron-chromedriver 一下
 
-作者二维码
-
-<img src='https://47.99.98.183/qr.jpg' />
+![作者二维码](https://github.com/zhou1591/vue3-ts-electorn-app/blob/master/qr.png)
 
 ## 写这个项目的初衷
 
@@ -22,3 +20,8 @@
 - extraResources 这个属性可以把第三方的应用打进去，但是切记不要打包当前目录，他能打一年，然后你会发现硬盘满了
 
 - <https://www.easyicon.net/covert/> 转换图标的网站
+
+## 更新动态
+
+- 4-15 之前  初始化项目  
+  - 全局按钮监听具体说明打包运行后  CmdOrCtrl+P  打开帮助
