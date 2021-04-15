@@ -16,6 +16,7 @@
     "core-js": "^3.6.5",
     "fs": "0.0.1-security",
     "tslint": "^6.1.3",
+    "typings-for-css-modules-loader": "^1.7.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"

@@ -10,6 +10,11 @@ declare module '*.ts' {
   export default model
 }
 
+declare module '*.scss' {
+  const model:any ={}
+  export default model
+}
+
 interface newNode extends NodeJS.Process{
   platform:String,//环境
   on:Function//监听
